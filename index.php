@@ -1,4 +1,4 @@
 <?php
-echo "Trang web này đang được xây dựng bởi ST-Team!</br>";
+echo "Trang web nay dang duoc xay dung boi ST-Team</br>";
 //version 2
 //Harry
